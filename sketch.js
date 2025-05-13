@@ -1,3 +1,7 @@
+let gralhas = []; // Armazena todas as gralhas azuis criadas
+
+let arvores = [];
+let cidadeX;
 
 function setup() {
   createCanvas(800, 400);
